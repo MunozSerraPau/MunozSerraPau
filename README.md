@@ -1,7 +1,3 @@
-<p align="center">
-   <img align="center" width="200" src="https://media.licdn.com/dms/image/C4D03AQEHPIY7PjkZeg/profile-displayphoto-shrink_400_400/0/1653841055965?e=2147483647&v=beta&t=W1uP8pR96umCJyVHDfFFOQBZam7CuDBymOSdKpvr8OI" />
-</p>
-
 # 👋 ¡Hola, Mundo! ¡Soy Pau Muñoz Serra!
 
 ## 🚀 Acerca de mí
@@ -20,19 +16,26 @@ Cuando no estoy frente a la pantalla del ordenador, me puedes encontrar:
 - 🎵 Sumergido en la música mientras doy un passeo o me tomo alguna cosa en la terraza
 - 📚 Dando una vuelta o salir a tomar algo con los amigos
 
-## 💻 Lenguajes de programación y herramientas que conozco
+## 💻 Lenguajes de programación
 
 A lo largo de mi carrera, he adquirido experiencia en varios lenguajes de programación y herramientas, incluyendo:
 
 - **JAVA**: He trabajado en varios proyectos utilizando este lenguaje...
-- **MySql**: Este lenguaje fue el primero que aprendí...
+- **Sql**: Este lenguaje fue el primero que aprendí...
 - **HTML & CSS**: Recientemente he estado explorando este lenguaje...
-- **IntelliJ**: Esta herramienta ha sido esencial en mi trabajo para mi desarollo en JAVA y todo lo que he ido aprendiendo
+- **XML/DTD/JSON**: 
+- **C#**: Conceptos basicos de C#, utilización para crear un juego en 2D en Unity. 
+
+## ⚙️ Herramientas de programación
+
+- **IntelliJ**: Esta herramienta ha sido esencial en mi trabajo para mi desarollo en JAVA y todo lo que he ido aprendiendo.
 - **Visual Studio Code**: Utilizo esta herramienta regularmente para poder programar de forma rapida y eficiente con cualquier lenguage de programación.
+- **GitHub**: Utilizo esta herramienta casi diariamente, tanto para aprender y obtener información, como para subir mis proyectos para que la gente los vea y pueda aprender/inspirarse.
+- **MySql Workbench**: Ha estado una herramienta esencial para poder aprender y trabajar con base de datos, con el lenguaje SQL.
 
 ## 📫 Contacto
 
-Si quieres ponerte en contacto conmigo, no dudes en enviarme un correo electrónico a [Tu correo electrónico] o puedes encontrarme en [Otra forma de contacto].
+Si quieres ponerte en contacto conmigo, no dudes en enviarme un correo electrónico a munozserrap@gmail.com
 
 ¡Gracias por visitar mi perfil! 😊
 
